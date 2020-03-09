@@ -30,7 +30,6 @@ Q: Difference between Javascript and ECMAScript?
 
 ## First javascript program
 
-<pre>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -48,7 +47,5 @@ Q: Difference between Javascript and ECMAScript?
     </body>
 
 </html>
-
-</pre>
 
 ⬆️ [Table of Contents](#table-of-contents)
